@@ -1,0 +1,5 @@
+--Modules
+
+Decimal = decimal module for float number bit specifications
+re = regular expressions
+keyword = keyword module
